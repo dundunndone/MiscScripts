@@ -1,3 +1,3 @@
 # Misc Scripts
 
-Stuff for PowerShell, Bash, and Windows Registry
+Various PowerShell, Bash, and Windows Registry acripts
